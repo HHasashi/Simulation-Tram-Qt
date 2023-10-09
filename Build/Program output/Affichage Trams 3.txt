@@ -1,0 +1,19 @@
+Tramway numero : 000
+Numero de sa ligne : 3
+Position (x;y) : (-200;0)
+Vitesse maximum : 50 KM/h
+Sens de deplacement : Aller
+
+Tramway numero : 001
+Numero de sa ligne : 3
+Position (x;y) : (40;450)
+Vitesse maximum : 60 KM/h
+Sens de deplacement : Aller
+
+Tramway numero : 002
+Numero de sa ligne : 3
+Position (x;y) : (100;490)
+Vitesse maximum : 30 KM/h
+Sens de deplacement : Aller
+
+

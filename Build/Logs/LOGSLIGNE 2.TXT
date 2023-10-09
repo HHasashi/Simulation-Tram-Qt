@@ -1,0 +1,15 @@
+Coteaux  6 -200x 600y 
+Nations  3 -160x 550y 
+Bel Air  2 -100x 560y 
+Lumieres  3 -150x 620y 
+Illberg  2 -100x 700y 
+Universite  3 -10x 660y 
+Palais des Sports  2 0x 560y 
+Daguerre  3 45x 520y 
+Tour Nessel  2 90x 480y 
+Porte Haute  3 130x 445y 
+Mairie  2 175x 460y 
+Porte Jeune  2 255x 430y 
+Nordfeld  3 310x 340y 
+Lefebvre  2 295x 310y 
+Nouveau Bassin  6 400x 280y 

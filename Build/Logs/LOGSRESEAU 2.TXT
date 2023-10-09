@@ -1,0 +1,8 @@
+Tram 0 de vitesse : 50 KM/h
+Tram 2 de vitesse : 60 KM/h
+Tram 3 de vitesse : 30 KM/h
+Tram 4 de vitesse : 70 KM/h
+Tram 5 de vitesse : 50 KM/h
+Tram 6 de vitesse : 60 KM/h
+Tram 7 de vitesse : 70 KM/h
+Tram 8 de vitesse : 50 KM/h

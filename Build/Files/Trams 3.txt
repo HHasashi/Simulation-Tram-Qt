@@ -1,0 +1,5 @@
+Nombre de trams : 3
+
+Vitesse Tram 1 : 50 KM/h
+Vitesse Tram 2 : 60 KM/h
+Vitesse Tram 3 : 30 KM/h

@@ -1,0 +1,37 @@
+Tramway numero : 000
+Numero de sa ligne : 1
+Position (x;y) : (200;0)
+Vitesse maximum : 50 KM/h
+Sens de deplacement : Aller
+
+Tramway numero : 001
+Numero de sa ligne : 1
+Position (x;y) : (200;100)
+Vitesse maximum : 60 KM/h
+Sens de deplacement : Aller
+
+Tramway numero : 002
+Numero de sa ligne : 1
+Position (x;y) : (60;200)
+Vitesse maximum : 50 KM/h
+Sens de deplacement : Aller
+
+Tramway numero : 003
+Numero de sa ligne : 1
+Position (x;y) : (220;280)
+Vitesse maximum : 60 KM/h
+Sens de deplacement : Aller
+
+Tramway numero : 004
+Numero de sa ligne : 1
+Position (x;y) : (250;385)
+Vitesse maximum : 50 KM/h
+Sens de deplacement : Aller
+
+Tramway numero : 005
+Numero de sa ligne : 1
+Position (x;y) : (180;500)
+Vitesse maximum : 60 KM/h
+Sens de deplacement : Aller
+
+

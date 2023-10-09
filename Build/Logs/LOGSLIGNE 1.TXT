@@ -1,0 +1,12 @@
+Chataignier  6 200x 0y 
+St. Nazaire  3 160x 50y 
+Tuileries  2 200x 100y 
+Rattachement  3 50x 110y 
+Stade de Bourtz.  2 60x 200y 
+Doller  3 200x 180y 
+Cite de l'Auto.  2 220x 280y 
+Cite Admin.  3 200x 350y 
+Grand Rex  2 250x 385y 
+Porte Jeune  3 245x 440y 
+Republique  2 180x 500y 
+Gare Centrale  6 200x 600y 

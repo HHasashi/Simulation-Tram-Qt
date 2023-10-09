@@ -1,0 +1,49 @@
+Nom de l'arret : Chataignier 
+Duree de l'arret : 6 secondes
+Position (x;y) : (200;0)
+
+Nom de l'arret : St. Nazaire 
+Duree de l'arret : 3 secondes
+Position (x;y) : (160;50)
+
+Nom de l'arret : Tuileries 
+Duree de l'arret : 2 secondes
+Position (x;y) : (200;100)
+
+Nom de l'arret : Rattachement 
+Duree de l'arret : 3 secondes
+Position (x;y) : (50;110)
+
+Nom de l'arret : Stade de Bourtz. 
+Duree de l'arret : 2 secondes
+Position (x;y) : (60;200)
+
+Nom de l'arret : Doller 
+Duree de l'arret : 3 secondes
+Position (x;y) : (200;180)
+
+Nom de l'arret : Cite de l'Auto. 
+Duree de l'arret : 2 secondes
+Position (x;y) : (220;280)
+
+Nom de l'arret : Cite Admin. 
+Duree de l'arret : 3 secondes
+Position (x;y) : (200;350)
+
+Nom de l'arret : Grand Rex 
+Duree de l'arret : 2 secondes
+Position (x;y) : (250;385)
+
+Nom de l'arret : Porte Jeune 
+Duree de l'arret : 3 secondes
+Position (x;y) : (245;440)
+
+Nom de l'arret : Republique 
+Duree de l'arret : 2 secondes
+Position (x;y) : (180;500)
+
+Nom de l'arret : Gare Centrale 
+Duree de l'arret : 6 secondes
+Position (x;y) : (200;600)
+
+

@@ -1,0 +1,18 @@
+Ligne 1
+
+Couleur de la ligne : 255 0 0
+
+Nombre d'arrêts : 12
+
+Chataignier      ; 6 ; 200 x ; 0   y ;
+St. Nazaire      ; 3 ; 160 x ; 50  y ;
+Tuileries        ; 2 ; 200 x ; 100 y ;
+Rattachement     ; 3 ; 50  x ; 110 y ;
+Stade de Bourtz. ; 2 ; 60  x ; 200 y ;
+Doller           ; 3 ; 200 x ; 180 y ;
+Cite de l'Auto.  ; 2 ; 220 x ; 280 y ;
+Cite Admin.      ; 3 ; 200 x ; 350 y ;
+Grand Rex        ; 2 ; 250 x ; 385 y ;
+Porte Jeune      ; 3 ; 245 x ; 440 y ;
+Republique       ; 2 ; 180 x ; 500 y ;
+Gare Centrale    ; 6 ; 200 x ; 600 y ;

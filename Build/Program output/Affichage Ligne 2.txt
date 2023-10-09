@@ -1,0 +1,61 @@
+Nom de l'arret : Coteaux 
+Duree de l'arret : 6 secondes
+Position (x;y) : (-200;600)
+
+Nom de l'arret : Nations 
+Duree de l'arret : 3 secondes
+Position (x;y) : (-160;550)
+
+Nom de l'arret : Bel Air 
+Duree de l'arret : 2 secondes
+Position (x;y) : (-100;560)
+
+Nom de l'arret : Lumieres 
+Duree de l'arret : 3 secondes
+Position (x;y) : (-150;620)
+
+Nom de l'arret : Illberg 
+Duree de l'arret : 2 secondes
+Position (x;y) : (-100;700)
+
+Nom de l'arret : Universite 
+Duree de l'arret : 3 secondes
+Position (x;y) : (-10;660)
+
+Nom de l'arret : Palais des Sports 
+Duree de l'arret : 2 secondes
+Position (x;y) : (0;560)
+
+Nom de l'arret : Daguerre 
+Duree de l'arret : 3 secondes
+Position (x;y) : (45;520)
+
+Nom de l'arret : Tour Nessel 
+Duree de l'arret : 2 secondes
+Position (x;y) : (90;480)
+
+Nom de l'arret : Porte Haute 
+Duree de l'arret : 3 secondes
+Position (x;y) : (130;445)
+
+Nom de l'arret : Mairie 
+Duree de l'arret : 2 secondes
+Position (x;y) : (175;460)
+
+Nom de l'arret : Porte Jeune 
+Duree de l'arret : 2 secondes
+Position (x;y) : (255;430)
+
+Nom de l'arret : Nordfeld 
+Duree de l'arret : 3 secondes
+Position (x;y) : (310;340)
+
+Nom de l'arret : Lefebvre 
+Duree de l'arret : 2 secondes
+Position (x;y) : (295;310)
+
+Nom de l'arret : Nouveau Bassin 
+Duree de l'arret : 6 secondes
+Position (x;y) : (400;280)
+
+

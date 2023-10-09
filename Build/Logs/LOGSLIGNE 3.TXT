@@ -1,0 +1,10 @@
+Lutterbach  6 -200x 0y 
+Musee  2 -80x 225y 
+Dornach  2 40x 450y 
+Daguerre  3 55x 530y 
+Tour Nessel  2 100x 490y 
+Porte Haute  3 135x 460y 
+Mairie  2 180x 475y 
+Porte Jeune  2 255x 450y 
+Republique  2 195x 500y 
+Gare Centrale  6 215x 600y 

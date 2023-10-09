@@ -1,0 +1,12 @@
+Nombre de trams : 10
+
+Vitesse Tram 1 : 50 KM/h
+Vitesse Tram 2 : 60 KM/h
+Vitesse Tram 3 : 30 KM/h
+Vitesse Tram 4 : 70 KM/h
+Vitesse Tram 5 : 50 KM/h
+Vitesse Tram 6 : 60 KM/h
+Vitesse Tram 7 : 70 KM/h
+Vitesse Tram 8 : 50 KM/h
+Vitesse Tram 9 : 60 KM/h
+Vitesse Tram 10 : 70 KM/h

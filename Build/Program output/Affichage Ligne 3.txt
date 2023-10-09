@@ -1,0 +1,41 @@
+Nom de l'arret : Lutterbach 
+Duree de l'arret : 6 secondes
+Position (x;y) : (-200;0)
+
+Nom de l'arret : Musee 
+Duree de l'arret : 2 secondes
+Position (x;y) : (-80;225)
+
+Nom de l'arret : Dornach 
+Duree de l'arret : 2 secondes
+Position (x;y) : (40;450)
+
+Nom de l'arret : Daguerre 
+Duree de l'arret : 3 secondes
+Position (x;y) : (55;530)
+
+Nom de l'arret : Tour Nessel 
+Duree de l'arret : 2 secondes
+Position (x;y) : (100;490)
+
+Nom de l'arret : Porte Haute 
+Duree de l'arret : 3 secondes
+Position (x;y) : (135;460)
+
+Nom de l'arret : Mairie 
+Duree de l'arret : 2 secondes
+Position (x;y) : (180;475)
+
+Nom de l'arret : Porte Jeune 
+Duree de l'arret : 2 secondes
+Position (x;y) : (255;450)
+
+Nom de l'arret : Republique 
+Duree de l'arret : 2 secondes
+Position (x;y) : (195;500)
+
+Nom de l'arret : Gare Centrale 
+Duree de l'arret : 6 secondes
+Position (x;y) : (215;600)
+
+

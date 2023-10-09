@@ -1,0 +1,3 @@
+Tram 0 de vitesse : 50 KM/h
+Tram 2 de vitesse : 60 KM/h
+Tram 3 de vitesse : 30 KM/h

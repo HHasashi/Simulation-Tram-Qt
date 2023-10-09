@@ -1,0 +1,16 @@
+Ligne 3
+
+Couleur de la ligne : 0 200 0
+
+Nombre d'arrêts : 10
+
+Lutterbach        ; 6 ; -200 x ; 0  y ;
+Musee             ; 2 ; -80 x ; 225 y ;
+Dornach           ; 2 ; 40  x ; 450 y ;
+Daguerre          ; 3 ; 55  x ; 530 y ;
+Tour Nessel       ; 2 ; 100 x ; 490 y ;
+Porte Haute       ; 3 ; 135 x ; 460 y ;
+Mairie            ; 2 ; 180 x ; 475 y ;
+Porte Jeune       ; 2 ; 255 x ; 450 y ;
+Republique        ; 2 ; 195 x ; 500 y ;
+Gare Centrale     ; 6 ; 215 x ; 600 y ;

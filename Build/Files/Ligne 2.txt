@@ -1,0 +1,21 @@
+Ligne 2
+
+Couleur de la ligne : 255 200 0
+
+Nombre d'arrêts : 15
+
+Coteaux           ; 6 ; -200 x ; 600 y ;
+Nations           ; 3 ; -160 x ; 550 y ;
+Bel Air           ; 2 ; -100 x ; 560 y ;
+Lumieres          ; 3 ; -150 x ; 620 y ;
+Illberg           ; 2 ; -100 x ; 700 y ;
+Universite        ; 3 ; -10  x ; 660 y ;
+Palais des Sports ; 2 ;  0   x ; 560 y ;
+Daguerre          ; 3 ;  45  x ; 520 y ;
+Tour Nessel       ; 2 ;  90  x ; 480 y ;
+Porte Haute       ; 3 ;  130 x ; 445 y ;
+Mairie            ; 2 ;  175 x ; 460 y ;
+Porte Jeune       ; 2 ;  255 x ; 430 y ;
+Nordfeld          ; 3 ;  310 x ; 340 y ;
+Lefebvre          ; 2 ;  295 x ; 310 y ;
+Nouveau Bassin    ; 6 ;  400 x ; 280 y ;

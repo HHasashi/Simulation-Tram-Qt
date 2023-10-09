@@ -1,0 +1,3 @@
+Nombre de lignes : 3
+
+Durée simulation : 30 secondes

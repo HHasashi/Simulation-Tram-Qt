@@ -1,0 +1,66 @@
+Les fichiers doivent être dans un formatage précis, voici comment faire:
+
+Pour le fichier "Info.txt"
+
+**********************************************************************
+*								     *
+*   Nombre de lignes : NOMBRE	   			             *
+*   Durée simulation : DURÉE					     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+**********************************************************************
+
+Pour le fichier "Ligne X.txt" (X étant un entier)
+
+**********************************************************************
+*								     *
+*   Ligne X	   			                             *
+*								     *
+*   Couleur de la ligne : r g b			          	     *
+*   Nombre d'arrêts : 13			          	     *
+*								     *
+*   Nom de l'arrêt i ; durée de la pose ; xi ; yi ;		     *
+*   Nom de l'arrêt j ; durée de la pose ; xj ; yj ;		     *
+*   Nom de l'arrêt k ; durée de la pose ; xk ; yk ;		     *
+*								     *
+*   Etc...						             *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+**********************************************************************
+
+Pour le fichier "Trams X.txt"
+
+**********************************************************************
+*								     *
+*   Nombre de trams : NOMBRE	   			             *
+*								     *
+*   Vitesse Tram 1 : 50 KM/h					     *
+*   Vitesse Tram 2 : 60 KM/h					     *
+*   Vitesse Tram 3 : 30 KM/h					     *
+*   Vitesse Tram 4 : 70 KM/h					     *
+*								     *
+*   Etc...							     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+*								     *
+**********************************************************************
